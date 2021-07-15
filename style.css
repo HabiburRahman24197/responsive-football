@@ -50,3 +50,30 @@ h1{
      margin-right: 100px;
  }
 
+/*-------------------------------- 
+player details area style 
+ --------------------------------*/
+.blogs{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+   
+   
+}
+ .blog{
+     text-align: center;
+     width: 330px;
+     height: 474px;
+     margin-top: 50px;
+     margin-left: 20px;
+     padding: 15px;
+     box-shadow: 2px 2px 10px;
+ }
+ .blog .thumbnail img{
+     width: 300px;
+     height: 256px;
+ }
+ .blog-info{
+     width: 300px;
+     height: 154px;
+ }
+
