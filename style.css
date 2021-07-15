@@ -77,3 +77,33 @@ player details area style
      height: 154px;
  }
 
+/*---------------------------
+down side area style
+-----------------------------*/
+.down-side{
+    font-size: 100px;
+    color: steelblue;
+    font-style: oblique;
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+}
+
+.social-media{
+    border: none;
+    text-align: center;
+    color: thistle;
+    font-size: 50px;
+    margin: 10px;
+    padding: 5px;
+}
+
+/* -----------------
+finishing part
+-------------------- */
+footer{
+    text-align: center;
+    font-weight: 500px;
+    margin: 10px;
+    padding: 5px;
+}
